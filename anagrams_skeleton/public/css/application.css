@@ -1,0 +1,29 @@
+.container {
+  margin: 20px auto;
+  width: 600px;
+  padding: 0px 20px 20px 20px;
+  border: 1px dotted black;
+}
+th {
+  text-align: left;
+}
+
+.borde {
+  border: 5px solid #30A9DE;
+  border-radius: 8px;
+  width: 50%;
+  text-align: center;
+  padding: 50px;
+}
+
+.boton {
+  width: 80px;
+  background-color: #E53A40;
+  padding: 7px;
+  color: white;
+  border-radius: 7px;
+  cursor: pointer;
+  font-size: 1em;
+  margin: 0 auto;
+}
+
